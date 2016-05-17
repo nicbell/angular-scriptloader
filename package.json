@@ -1,0 +1,19 @@
+{
+  "name": "angular-scriptloader",
+  "version": "1.0.0",
+  "description": "Script loader for angular.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://nicbell@github.com/nicbell/angular-scriptloader.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "Nic Bell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicbell/angular-scriptloader/issues"
+  },
+  "homepage": "https://github.com/nicbell/angular-scriptloader#readme"
+}
